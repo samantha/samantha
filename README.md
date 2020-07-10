@@ -1,3 +1,4 @@
+Hello ✨ 
 <!--## Hello-->
 
 <!--
@@ -14,5 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Profile Views](http://hits.dwyl.com/{samantha}/{samantha}.svg)](http://hits.dwyl.com/{samantha}/{samantha})
+<!--[![Profile Views](http://hits.dwyl.com/{samantha}/{samantha}.svg)](http://hits.dwyl.com/{samantha}/{samantha})-->
+
 
